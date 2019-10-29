@@ -1,5 +1,5 @@
 # Reinforcement-Learning-for-Real-time-Pricing-and-Scheduling-Control-in-EV-Charging-Stations
-Python code to reproduce our works on/offReinforcement-Learning-for-Real-time-Pricing-and-Scheduling-Control-in-EV-Charging-Stations.
+Python code to reproduce our works on Reinforcement-Learning-for-Real-time-Pricing-and-Scheduling-Control-in-EV-Charging-Stations.
 
 
 ## Cite this work
