@@ -27,3 +27,11 @@ This paper proposes a Reinforcement-Learning (RL) approach for optimizing chargi
 - scipy
 
 
+## About Authors
+Shuoyao Wang, yorksywang@tencent.com :Shuoyao Wang received the B.Eng. degree (with first class Hons.) and the Ph.D degree in information engineering from The Chinese University of Hong Kong, Hong Kong, in 2013 and 2018, respectively. Since 2018, he has been with the Department of Risk Management, CDG, Tencent, Shenzhen, China, where he is currently an Senior Researcher. His research interests include nature language processing, adversarial (reinforcement) learning, graph neural networks, optimization theory, dynamic programming, deep learning and reinforcement learning algorithm in both Smart Grid and WeChatPay Risk Management. For any inquiry for this work or cooperation， please feel free to contact us through yorksywang@tencent.com.
+
+Suzhi Bi, bsz@szu.edu.cn
+
+Ying-jun Angela Zhang, yjzhang@ie.cuhk.edu.hk
+
+## Thank You for Reading!!!
