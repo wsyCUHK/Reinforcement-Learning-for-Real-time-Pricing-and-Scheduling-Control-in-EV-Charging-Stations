@@ -1,3 +1,7 @@
+# 17th Nov 2020 Update
+Dear All,
+I notice that people are waiting for the code. As I said in some emails, the paper is finally done when I was @ Tencent. In May 2020, I left from Tencent and join SZU. As you know, for a commercial company, I leave all the material inside Tencent. I really sorry that it is not possible to provide the original MATLAB code any more. I will try to re-implement it in Pytorch recently. Thanks.
+
 # Reinforcement-Learning-for-Real-time-Pricing-and-Scheduling-Control-in-EV-Charging-Stations
 Python code to reproduce our works on Reinforcement-Learning-for-Real-time-Pricing-and-Scheduling-Control-in-EV-Charging-Stations.
 
