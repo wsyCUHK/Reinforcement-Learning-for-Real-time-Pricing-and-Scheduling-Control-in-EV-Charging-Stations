@@ -32,7 +32,7 @@ This paper proposes a Reinforcement-Learning (RL) approach for optimizing chargi
 
 
 ## About Authors
-Shuoyao Wang, yorksywang@tencent.com :Shuoyao Wang received the B.Eng. degree (withnfirst class Hons.) and the Ph.D degree in information engineering from The Chinese University of HongnKong, Hong Kong, in 2013 and 2018, respectively. From 2018 to 2020, he was an senior researcher with the Department of Risk Management, Tencent,
+Shuoyao Wang, sywang AT szu.edu.cn:Shuoyao Wang received the B.Eng. degree (withnfirst class Hons.) and the Ph.D degree in information engineering from The Chinese University of HongnKong, Hong Kong, in 2013 and 2018, respectively. From 2018 to 2020, he was an senior researcher with the Department of Risk Management, Tencent,
 Shenzhen, China. Since 2020, he has been with the College of Electronic and Information Engineering, Shenzhen University, Shenzhen, China, where he is currently an Assistant Professor. His research interests include optimization theory, operational research, and machine learning in Multimedia Processing, Smart Grid, and Communications. For any inquiry for this work or cooperation， please feel free to contact us through sywang AT szu.edu.cn.
 
 Suzhi Bi, bsz@szu.edu.cn
