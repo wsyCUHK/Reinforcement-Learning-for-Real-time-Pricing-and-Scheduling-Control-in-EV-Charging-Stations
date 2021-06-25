@@ -9,6 +9,7 @@ Dear All,
 
 1. S. Wang, S. Bi, and Y. J. Zhang, “[Reinforcement Learning for Real-time Pricing and
 Scheduling Control in EV Charging Stations](https://ieeexplore.ieee.org/document/8888199),” in IEEE Transactions on Industrial Informatics, vol. 17, no. 2, pp. 849-859, Feb. 2021, doi: 10.1109/TII.2019.2950809.
+S. Wang, S. Bi and Y. A. Zhang, "A Reinforcement Learning Approach for EV Charging Station Dynamic Pricing and Scheduling Control," 2018 IEEE Power & Energy Society General Meeting (PESGM), 2018, pp. 1-5, doi: 10.1109/PESGM.2018.8586075.
 ![The EV Charging Station.](https://user-images.githubusercontent.com/37823466/68126507-eec60e80-ff4e-11e9-9b1f-cba8514ae5c3.png)
 
 ### Abstract
