@@ -5,7 +5,7 @@ Dear All,
 
 2020-11-22: A pytorch implementation is uploaded. Again, I'm sorry that I cannot  provide the original MATLAB implementation with SARSA. As our group is devoting some research efforts with the A3C framework, I implement the EV Charging environment and feature function state with a A3C framework for implementation efficiency. As a result, although the result slighly differs from the orginal one, the fast convergence is still significant. Personally speaking, our main contribution is the problem formulation and transformation, which can be found in the env() function. So, let me stop here and thank you again for your attention. 
 
-## Cite this work
+## Cite this work (The TII version is prefered)
 
 1. S. Wang, S. Bi, and Y. J. Zhang, “[Reinforcement Learning for Real-time Pricing and
 Scheduling Control in EV Charging Stations](https://ieeexplore.ieee.org/document/8888199),” in IEEE Transactions on Industrial Informatics, vol. 17, no. 2, pp. 849-859, Feb. 2021, doi: 10.1109/TII.2019.2950809.
